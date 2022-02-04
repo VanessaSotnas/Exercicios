@@ -10,10 +10,10 @@ public class nota {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-	//  Crie um programa que recebe tres notas, faz a sua media, e checa se você passou direto, ficou de recuperação ou foi reprovado na matéria.
+	//  Crie um programa que recebe tres notas, faz a sua media, e checa se vocÃª passou direto, ficou de recuperaÃ§Ã£o ou foi reprovado na matÃ©ria.
 	//  Nota 7 ou mais: aprovado;
-	//	Entre 5 e 7: de recuperação;
-	//	Abaixo de 5: reprovado.
+	//  Entre 5 e 7: de recuperaÃ§Ã£o;
+	//  Abaixo de 5: reprovado.
 
 	double nota1, nota2, nota3, resultado;
 	
