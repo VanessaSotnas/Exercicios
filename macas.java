@@ -6,8 +6,8 @@ public class macas {
 
 	public static void main(String[] args) {
 
-// As maçãs custam R$0,30 cada se forem compradas menos do que uma dúzia, é R$ 0,25 se forem compradas pelo menos doze. //
-//Escreva um programa que leia o número de maçãs compradas, calcule	e escreva o	valor total	da compra. //		
+// As maÃ§Ã£s custam R$0,30 cada se forem compradas menos do que uma dÃºzia, Ã© R$ 0,25 se forem compradas pelo menos doze. //
+//Escreva um programa que leia o nÃºmero de maÃ§Ã£s compradas, calcule e escreva o	valor total da compra. //		
 
 	Scanner sc = new Scanner(System.in);	
 		
