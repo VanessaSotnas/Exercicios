@@ -48,10 +48,7 @@ public class dez {
 		break;
 	default:
 		System.out.println("Número inválido.");
-	}
-	
-		
-		
+	}	
 		
 	sc.close();	
 	}
