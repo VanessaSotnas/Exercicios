@@ -28,7 +28,7 @@ public class vetor {
 	   System.out.print(B[i] + "  ");
    }
    
-   
+   sc.close();   
    
 	}
 
